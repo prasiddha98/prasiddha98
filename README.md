@@ -14,7 +14,7 @@
 <a href="https://twitter.com/dhunganafamous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhunganafamous" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100067451182282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="फेमस ढुंगाना" height="30" width="40" /></a>
 <a href="https://instagram.com/d_saramsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_saramsa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/famous dhungana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="famous dhungana" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UChTpTSd8OqlBK1pjmBVaiSg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="famous dhungana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
