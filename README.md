@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm prasiddha98</h1>
+<h1 align="center">Hi 👋, I'm Famous Dhungana</h1>
 <h3 align="center">A passionate learner .</h3>
 
 <p align="left"> <a href="https://twitter.com/dhunganafamous" target="blank"><img src="https://img.shields.io/twitter/follow/dhunganafamous?logo=twitter&style=for-the-badge" alt="dhunganafamous" /></a> </p>
